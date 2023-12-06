@@ -5,4 +5,4 @@ Robocorp course using RobotFramework/Python.
 Complete the Automation-Certification-Level-II course using Robot Framework and Robocorp. 
 
 # Demo Site 
-As part of this course, this site was used https://robotsparebinindustries.com/#/robot-orde to perform all the automated operations.
+As part of this course, this site was used https://robotsparebinindustries.com/#/robot-order to perform all the automated operations.
